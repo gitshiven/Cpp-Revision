@@ -24,4 +24,4 @@ int main() {
     int result = solution.bitwiseComplement(n);
     cout << "Bitwise complement of " << n << " is: " << result << endl;
     return 0;
-}
+} 
